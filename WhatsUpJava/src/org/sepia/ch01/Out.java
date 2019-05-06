@@ -4,6 +4,6 @@ public class Out {
 	public static void main(String[] args) {
 		System.out.println("Hello World");
 		System.out.println("2019-05-06 18:05");
-		System.out.println("2019-05-06 18:11 gitì—ì„œ ì¶”ê°€");
+		System.out.println("2019-05-06 18:11 git Ãæµ¹½Ã¿¡´Â ¾î¶»°Ô Ç¥½Ã¸¦ ÇØ¾ß ÇÏÁÒ?");
 	}
 }
