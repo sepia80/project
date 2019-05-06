@@ -4,7 +4,7 @@ public class Out {
 	public static void main(String[] args) {
 		System.out.println("Hello World");
 		System.out.println("2019-05-06 18:05");
-		System.out.println("2019-05-06 18:11 git Ãæµ¹½Ã¿¡´Â ¾î¶»°Ô Ç¥½Ã¸¦ ÇØ¾ß ÇÏÁÒ?");
-		System.out.println("´Ù½Ã Ãß°¡ÇÕ´Ï´Ù.");
+		System.out.println("2019-05-06 18:11 git ì¶©ëŒì‹œì—ëŠ” ì–´ë–»ê²Œ í‘œì‹œë¥¼ í•´ì•¼ í•˜ì£ ?");
+		System.out.println("confilct");
 	}
 }
